@@ -9,10 +9,15 @@ This project is a frontend-focused portfolio platform designed to simulate a rea
 The application includes:
 
 • Public portfolio pages (Profile, Skills, Projects)
+
 • Blog listing and individual blog viewing
+
 • Admin dashboard for managing blog posts
+
 • Blog CRUD functionality (Create, Read, Update, Delete)
+
 • Publish / Draft blog status control
+
 • Responsive UI with modern animations
 
 The project demonstrates component-based frontend architecture and client-side state management using modern web technologies.
@@ -20,13 +25,21 @@ The project demonstrates component-based frontend architecture and client-side s
 Tech Stack
 
 Frontend Framework: Next.js (App Router)
+
 Language: TypeScript
+
 Styling: Tailwind CSS
+
 UI Components: ShadCN UI
+
 Animation: Framer Motion
+
 State Management: Zustand
+
 Routing: Next.js Dynamic Routing
+
 Data Persistence: Browser Local Storage
+
 Deployment: Vercel
 
 AI Tools Used
@@ -38,9 +51,13 @@ Primary Tool Used: ChatGPT
 How AI Helped
 
 • Assisted in structuring UI components
+
 • Helped design application architecture
+
 • Provided debugging support
+
 • Suggested improvements for state management logic
+
 • Helped optimize component workflows
 
 AI was used as a productivity tool, while implementation understanding and final integration decisions were handled manually.
@@ -52,17 +69,25 @@ Approximately 40–50% of the initial scaffolding and development assistance inv
 AI was primarily used for
 
 • Initial component scaffolding
+
 • Logic suggestions
+
 • Debugging guidance
 
 Manual effort included
 
 • Designing overall application architecture
+
 • Customizing UI logic
+
 • Implementing and Integrating application workflows
+
 • Structuring state management
+
 • Styling refinements
+
 • Project organization and modular code structuring
+
 • Understanding and adapting generated code
 
 Understanding of AI-Generated Code
@@ -74,18 +99,27 @@ Features Implemented
 Public Module
 
 • Portfolio hero section
+
 • Skills showcase
+
 • Projects listing
+
 • Projects detail view
+
 • Blog listing
+
 • Blog detail view
 
 Admin Module
 
 • Admin authentication (hardcoded)
+
 • Create blog post
+
 • Edit blog post
+
 • Delete blog post
+
 • Toggle publish status
 
 Admin Credentials
