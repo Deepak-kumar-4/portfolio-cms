@@ -131,24 +131,31 @@ Password: admin123
 Running the Project Locally
 
 1. Clone the Repository
+   
    git clone <your-repo-link>
 
 2. Navigate to Project Folder
+   
    cd project-folder
 
 3. Install Dependencies
+   
    This will install all required packages including Next.js, Tailwind CSS, Zustand, Framer Motion, and UI component libraries.
 
-npm install
+   npm install
 
 4. Run Development Server
+   
    npm run dev
 
 5. Open in Browser
+   
    http://localhost:3000
 
 Live Deployment
+
 The frontend application is deployed on Vercel.
 
 Live URL:
+
 👉 (Add your deployed link here)
