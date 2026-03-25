@@ -157,5 +157,4 @@ Live Deployment
 The frontend application is deployed on Vercel.
 
 Live URL:
-
 https://portfolio-cms-navy.vercel.app
