@@ -1,4 +1,5 @@
 Personal Portfolio Website with Blog Management System
+
 A modern personal portfolio web application integrated with a lightweight blog content management system (CMS). The platform showcases professional profile information, technical skills, projects, and blog content, along with an admin interface to manage blog posts.
 
 What I Built
