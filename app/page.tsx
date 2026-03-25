@@ -1,7 +1,11 @@
+import Hero from "@/components/layout/Hero"
+import Skills from "@/components/layout/Skills"
+
 export default function Home() {
   return (
-    <main>
-      Deepak Portfolio
-    </main>
+    <>
+      <Hero />
+      <Skills />
+    </>
   )
 }

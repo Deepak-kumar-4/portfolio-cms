@@ -128,3 +128,8 @@
     @apply font-sans;
   }
 }
+
+body {
+  background: linear-gradient(to bottom, #f8fafc, #eff6ff);
+  color: #1e293b;
+}
